@@ -1,1 +1,1 @@
-# Rishit-Website
+# Rishit
